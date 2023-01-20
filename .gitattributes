@@ -1,3 +1,4 @@
+You-get_Helper_Alpha1.2_FullRelease.exe filter=lfs diff=lfs merge=lfs -text
 *.py filter=lfs diff=lfs merge=lfs -text
 *.md filter=lfs diff=lfs merge=lfs -text
 *.exe filter=lfs diff=lfs merge=lfs -text
